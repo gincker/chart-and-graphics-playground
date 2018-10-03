@@ -11,34 +11,34 @@ It makes graphics creation as easy as using a calculator, and graphics delivery 
 
 This playground has the following main features:
 
-#### Simple Interface
+### Simple Interface
 
 Gincker converts different applications into templates. It implements a common interface and standardized input/output format by encapsulating and centralizing all the 
 programming and implementation details internally. As long as you work through one template, you will be able to use all the other templates to create advanced charts and 
 graphics. This is because all templates on Gincker share the same user interface and input/output formats. You can simply go to gincker.com, select a proper template, 
 and create your desired graphics out of the box.
 
-#### Software as a Template
+### Software as a Template
 
 Over 30 templates on the current release of Gincker not only show the power and capability of the platform, but also illustrate the procedure and format used in 
 creating those graphcs. These templates cover a broad range of applications, including 2D line charts, bar charts, pie charts, 3D charts, 3D shapes, 2D and 3D 
 complex-variable charts, vector-streamline charts, contour, fractal, statistical distribution functions, etc. In addition, more templates will be added to Gincker over time.
 
-#### Powerful Math Parser
+### Powerful Math Parser
 
 The math parser on Gincker allows you to build charts and graphics by entering a standard math formula with different parameters. For example, the formula
  sin(sqrt(x^2 + y^2))/(sqrt(x^2 + y^2) + a) will generate a 3D sinc chart; while the formula 
 sin(z^(a+b)/((x^ a + i * y^b)^c+d * i)) will produce a pretty domain-coloring chart for the complex-variable function (here z = x + i*y and i = sqrt(-1) is an imaginary number). 
 Note that a, b, c, d in the formula are parameters, which can be specified separately.
 
-#### Customization
+### Customization
 
 Gincker provides rich configuration options that allows you to customize your charts and graphics. For example, Gincker provides 13 different categorical color schemes 
 that can be used to specify colors for different chart series. Gincker also consists of over 100 different colormaps that define the color schemes for various types of 
 visualizations, such as surface and heatmap charts. You can also customize the other elements for your charts and graphics, such as chart title, axis, gridline, background 
 color, interaction with graphics, etc.
 
-#### Dynamic Output
+### Dynamic Output
 
 This playground allows you to save your work to a unique URL link called gincker. This saved gincker can not only provide output results, but also bring the development 
 environment directly to users. This gincker can be embedded in websites, incorporated into applications, or integrated into research papers. Users can also bookmark the 
