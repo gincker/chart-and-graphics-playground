@@ -52,7 +52,9 @@ Currently, Gincker Graphics has implemented over 30 chart and graphics models, a
 
 ## Demos
 
-Here are some sample results from our graphics playground (click the images to see the live demonstration):
+Here are some sample results from our graphics playground. Click the images to see the live demonstration:
+
+*(Note: depending on your computer and broswer, sometimes, the results may not be displayed on your screen automatically after clicking the following images. In this case, you need to reload the web page to see the results.)*
 
 [<img src="https://gincker.com/images/ginckers/open/free/chart2dParametricChart_lattice16p19.png" 
     width="250" width="250" title="2d parametric chart">](https://gincker.com/Graphics/2d-parametric-chart#zfhbaiWAcw)
