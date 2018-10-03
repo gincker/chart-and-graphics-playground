@@ -1,0 +1,2 @@
+# chart-and-graphics-playground
+Gincker Graphics, much like JSFiddle as a front-end code playground, is an interactive playground for charts and graphics. It allows users to create charts and graphics for any math function or dataset without writing any code, firing up IDE, installing libraries, or setting up a local server. This playground has the following main features: It makes graphics creation as easy as using a calculator, and graphics delivery and sharing as simple as posting a Tweet.
